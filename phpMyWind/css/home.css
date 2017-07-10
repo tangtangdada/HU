@@ -1,0 +1,47 @@
+/*导航栏*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+	margin-top: -4px;
+
+}
+.row .header-nav ul {
+
+}
+.row .header-nav li {
+	list-style: none;
+	float: left;
+    background: url(../images/nav-logo.PNG) no-repeat;
+    width: 103px;
+    height: 32px;
+    line-height: 32px;
+}
+.row .header-nav a {
+	text-decoration: none;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+/*轮播图*/
+.carousel-indicators .active {
+	background-color: #F96908;
+
+}
+.carousel-control {}
+.carousel-control img {
+ 	margin-top: 96px;
+ }
+ /*解决方案*/
+ .solution {
+
+ }
+ 
+ .solution .s-content {
+ 	padding-top: 40px;
+ }

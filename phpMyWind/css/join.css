@@ -1,0 +1,158 @@
+*{
+  margin:0;
+  padding: 0;
+}
+/*导航栏*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+  margin-top: -4px;
+
+}
+.row .header-nav li {
+  list-style: none;
+  background:url(../images/nav-logo.PNG) no-repeat;
+  float: left;
+  line-height:40px;
+  margin-left: 30px;
+  margin-top:2px;
+  width: 100px;
+}
+.row .header-nav a {
+  text-decoration: none;
+    color: #fff;
+    padding-left: 20px;
+    font-size: 14px;
+}
+/* end 头部样式*/
+/*轮播图片*/
+.s-pic .pic{
+   margin-top: 60px;
+}
+
+/*分割线*/
+.s-company {
+      margin-top: 20px;
+}
+.row .company {
+    font-weight: bold;
+    font-size: 15px;
+}
+.row .companys {
+      float: right;
+
+    color: #696969;
+}
+.row .companys p{
+      padding-right: 42px;
+}
+
+
+   /*前言*/
+.preface{
+    width: 1075px;
+    height: 242px;
+    background-color: #DCDCDC;
+    margin-left: 385px;
+    margin-top: 14px;
+
+}
+    
+.preface1 p {   
+ font-size: 29px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+
+.preface1 input { color: #DCDCDC;
+    width: 190px;
+    font-size: 25px;
+    height: 40px;}
+ 
+/*招聘信息*/
+
+
+
+.mytitle {
+    margin-left: 360px;
+     width: 1073px;
+    height: 230px;
+}
+.mytitle .mytitle-head{
+      margin-top: 20px;
+    margin-left: 10px;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.mytitle-text p {
+    margin-left: 13px;
+    margin-top: 9px;
+    color: #696969;
+   padding-right: 51px;
+  } 
+
+
+.mytitle-time {
+  width: 69px;
+    height: 21px;
+    margin-left: 17px;
+    margin-top: 20px;
+    background-color: #000;
+    color: #fff;
+}
+.mytitle-time p{
+  color: #696969;
+    width: 376px;
+    margin-left: 77px;
+    margin-top: -15px;
+
+}
+.mytitle-time p input{
+   width: 34px;
+    height: 22px;
+    font-size: 15px;
+    background-color: #3A5FCD;
+    color: #fff;
+}
+
+
+
+/*底部*/
+.footer {
+   width: 1100px;
+    height: 180px;
+    background-color: #DCDCDC;
+    margin-top: 10px;
+    margin-left: 360px;
+}
+
+.footer-logo{
+  margin-left: 50px;
+
+}
+
+.footer-logo img {
+   margin-left: 150px;
+      margin-top:40px;
+
+}
+
+
+.footer-er  {
+   margin-left: 120px;
+   margin-top:20px;
+
+
+}
+.footer-er p {
+     margin-left: 20px;
+}
+
+

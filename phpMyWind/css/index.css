@@ -1,0 +1,166 @@
+*{
+	margin:0;
+	padding: 0;
+}
+/*导航栏*/
+.header-home {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+	margin-top: -4px;
+
+}
+.row .header-nav li {
+	list-style: none;
+	background:url(../images/nav-logo.PNG) no-repeat;
+	float: left;
+	line-height:40px;
+	margin-left: 30px;
+	margin-top:2px;
+	width: 100px;
+}
+.row .header-nav a {
+	text-decoration: none;
+    color: #fff;
+    padding-left: 20px;
+    font-size: 14px;
+}
+/*轮播图*/
+.carousel-indicators .active {
+	background-color: #F96908;
+
+}
+.carousel-control img {
+ 	margin-top: 96px;
+ }
+ /*解决方案*/
+.solution{
+	margin:40px 0;
+
+}
+.solution .s-title {
+	text-align: center;
+    margin: 23px;
+    font-size: 20px;
+}
+.solution .s-title a{
+	font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+.solution .s-wrap{
+	border-bottom: 1px solid #888686;
+	width: 30%;
+	margin:0 auto;
+	padding-top: 10px;
+
+}
+
+.s-img{
+	list-style: none;
+	float: left;
+	border: 1px solid #A19f9f;
+	margin-top: 30px;
+
+}
+.s-img p{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+/*关于我们*/
+.about{
+	margin: 100px 0;
+
+}
+.a-tupian{
+	list-style: none;
+	float: left;
+	margin-top: 40px;
+	margin-left:50px;
+}
+.a-tupian p{
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+}
+/*新闻资讯*/
+.new{
+	margin-top: 40px;
+}
+.new-left img{
+	width: 530px;
+ 	margin-top: 40px;
+ 	font-size: 16px;
+ }
+ .new-text{
+ 	width: 520px;
+ }
+.new-text span{
+ 	line-height:50px;  
+ 	margin-top: 30px;
+ }
+.new-right ul{
+	margin-top: 50px;
+ 	list-style: none;
+ }
+.new-right ul li{
+	margin: 20px;
+    line-height: 1px;
+    height: 15px;
+    border-bottom: 1px dashed #888686;
+} 
+.new-right ul li span{
+    border: 8px solid transparent;
+    border-left-color:#ff3300;
+    position:absolute;
+    margin: -10px 10px;
+ }
+.new-right ul li  a{
+	text-decoration: none;
+ 	margin-left:35px;
+ 	color: #333;
+ }
+.new-right time{
+	float: right;
+	padding-top: -40px;
+	color: #888686;
+}
+/*底部*/
+.footer {
+   width: 1100px;
+    height: 180px;
+    background-color: #DCDCDC;
+       margin-left: -261px;
+    margin-top: -6px;
+}
+
+.footer-logo{
+  margin-left: -32px
+
+}
+
+.footer-logo img {
+   margin-left: 150px;
+      margin-top:40px;
+
+}
+
+
+.footer-er  {
+      margin-left: -110px;
+    margin-top: -5px;
+
+}
+.footer-er p {
+     margin-left: 20px;
+}
+
+
